@@ -1,8 +1,6 @@
 # Hi there 👋 I'm Mahalakshmi B.S
 
-<p align="center">
-  <img src="https://cdn-icons-png.flaticon.com/512/2721/2721297.png" width="140" alt="Backend Developer"/>
-</p>
+
 
 <h3 align="center">Java Backend Developer | Spring Boot | Microservices</h3>
 
